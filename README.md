@@ -1,5 +1,5 @@
 # Kalkulacka PHP
-## Hron Adam
+## 58798 Adam
 ## Jednoducha kalkulacka sestrojena v jazyku php
 php: http://kalkulace.rf.gd/index.php
 
